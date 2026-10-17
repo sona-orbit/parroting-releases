@@ -1,10 +1,10 @@
-# 學舌鳥 Parroting — downloads
+# Parroting — downloads
 
 Download the latest macOS version (Apple silicon, signed and notarized):
 
 https://github.com/sona-orbit/parroting-releases/releases/latest/download/Parroting-macos-arm64.zip
 
-Website and setup guide: https://sona-orbit.github.io/parroting
+Website and setup guide: https://sona-orbit.github.io/parroting/en/
 
 This repository holds release files only (the app and the update feed it reads).
 
