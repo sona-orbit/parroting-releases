@@ -11,5 +11,3 @@ Website and setup guide: https://sona-orbit.github.io/parroting/en/
 This repository holds release files only (the app and the update feed it reads).
 
 Speech recognition models are downloaded in the app from a list you choose from; each model's author, source and license: https://sona-orbit.github.io/parroting/en/speech-models — a model you import yourself is used under its own source's license.
-
-- Published by Sona Orbit. Issues and pull requests are turned off.
